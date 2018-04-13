@@ -25,8 +25,15 @@ For production, there are some settings you'll want to change:
 * Choose an actually-secret `SECRET_KEY`
 * If you want to use the mailing list features, set `EMAIL_ENABLED = True` and fill out the SMTP variables with the appropriate values for your mailserver
 
+Create the database:
+
+    python manage.py db migrate
+    python manage.py db upgrade
+
 To run a local instance for testing:
 
     python manage.py runserver
 
 By default you can view your new site at `http://localhost:5000`
+
+Be ready for a weird-looking result! The layout isn't too happy when there aren't any blog entries to retrieve.
