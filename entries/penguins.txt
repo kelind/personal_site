@@ -1,0 +1,213 @@
+And we're back! It turned out to be a little harder to find reliable internet in South Africa than I'd expected, which put me even further behind on my entries. To get back into the swing of things, here's a short one about my time in Cape Town, the last place I visited in South Africa. There's still loads more to post about all the other places I've visited--we'll see when I'm able to get those put together.
+
+Also, a small technical note: I was kind of unsatisfied with the pictures in my other entries. I didn't want to make them too large so they wouldn't be a nightmare for people with smaller screens, but they usually look much nicer in the large size! So, while the images are still scaled down when they appear in blog entries, you can now click on them to take a look at the full-size version if you so desire.
+
+Okay, enough about that. On with the penguins!
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/sign_penguin.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/sign_penguin.JPG" alt="A sign saying 'Welcome to Boulders, home of the African Penguin.'" />
+  </a>  
+  <figcaption class="fixed-width">The entry sign for Boulders Beach</figcaption>
+</figure>
+</div>
+
+One of the most popular tourist attractions in Cape Town is the Boulders Penguin Colony, located a little ways outside the city in Simon's Town. We rolled up around 10:00 in the morning, hoping to beat other tourists to the punch, and were given thirty-five minutes to visit the penguin colony. This was a gross underestimate of how long I could stand around and watch penguins be penguins, but we had lots planned for the rest of the day and there *definitely* wasn't time to waste on feeling grumpy about the lack of time.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/sign_penguin_marked_up.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/sign_penguin_marked_up.JPG" alt="A sign saying 'Welcome to Boulders, home of the African Penguin' with a penguin next to it." />
+  </a>  
+  <figcaption class="fixed-width">...with penguin.</figcaption>
+</figure>
+</div>
+
+As it turned out our first opportunity to make the acquaintance of penguins came before we even got to the entrance. Wandering down the middle of the street, ignored by the curio vendors setting up shop, was a single lost, presumably very confused, penguin. It saw us coming and made for the bushes just behind the Boulders Beach sign. It must have realized the gravity of its mistake as more and more tourists came tramping down the street just outside its hiding place, because it was still lurking there when we left.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/sarah_penguin.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/sarah_penguin.JPG" alt="One of the students takes a picture of the penguin by the sign." />
+  </a>  
+  <figcaption class="fixed-width">Sarah makes the acquaintance of penguins.</figcaption>
+</figure>
+</div>
+
+There was a great deal of excitement over that first penguin sighting, but it was nothing next to what was coming in the colony proper. You view the penguins from a pair of boardwalks that meander down to the water, allowing you to get within a yard or so of the birds. They don't care much about humans, nesting within a couple feet of the boardwalk and waddling back and forth underneath it on their way down to the water. You're asked not to use selfie sticks while in the park because they allow people to put their cameras "inappropriately close" to the penguins--by which I can only guess they mean you could smack them with your camera if you wanted to, as they would certainly be within reach.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/penguin.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/penguin.JPG" alt="An adult African penguin." />
+  </a>  
+  <figcaption class="fixed-width">African penguin at Boulders Beach.</figcaption>
+</figure>
+</div>
+
+At the top of the boardwalk you encounter first one penguin, then maybe two, a parent grooming a chick or a pair grooming each other. Here and there you might find a penguin nesting under a bush, sometimes sitting grumpily on top of a small, peeping chick, sometimes crammed together with a chick so large it's half spilling out of the nest.
+
+Then you turn onto a steeply downward sloping section of boardwalk and see...
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/penguin_overview2.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/penguin_overview2.JPG" alt="Several penguins scattered on the beach and in the ocean." />
+  </a>  
+  <figcaption class="fixed-width">The penguin colony at Boulders Beach.</figcaption>
+</figure>
+</div>
+
+...a lot of penguins.
+
+The penguins at Boulders Beach are African Penguins, formerly known as Jackass Penguins. The colony started with two breeding pairs in 1982 and boasts over 2,000 penguins today. However, the population of African Penguins was estimated at about 200,000 in 2000, and had fallen to around 55,000 by 2010 and only about 23,000 as of last year; if that rate of decline continues, they're expected to go extinct within the next fifteen years. So if you're planning a journey to South Africa, this is one attraction you might want to visit before it disappears.
+
+<div class="wrapper">
+  <figure>
+    <video controls>
+      <source src="/static/entry/penguins/penguin_swimming.mp4">
+      <source src="/static/entry/penguins/penguin_swimming.webm">
+      <p>Your browser doesn't support this video format. If you like, you can download it and play it on your computer using <a href="/static/entry/penguins/penguin_swimming.mp4">this link</a> instead.</p> 
+    </video>
+   <figcaption>Penguins swimming at Boulders Beach.</figcaption>
+  </figure>
+</div>
+
+The name "Jackass Penguin" is supposedly derived from the loud braying noise the birds make, but I didn't hear anything of the sort--none of the adults had anything to yell about, apparently. The chicks were another story, in particular one of the few cases I saw where a nest had two of them. They don't look terribly good and sharing space.
+
+<div class="wrapper">
+  <figure>
+    <video controls>
+      <source src="/static/entry/penguins/baby_penguins.mp4">
+      <source src="/static/entry/penguins/baby_penguins.webm">
+      <p>Your browser doesn't support this video format. If you like, you can download it and play it on your computer using <a href="/static/entry/penguins/baby_penguins.mp4">this link</a> instead.</p> 
+    </video>
+   <figcaption>Loud baby penguins.</figcaption>
+  </figure>
+</div>
+
+Unfortunately the camera was a lot better at picking up the voices of the people standing next to me than the chicks' complaining, but it gives you something of an idea. Their poor parent is just trying to sleep! Male and female penguins trade off time spent sitting on the nest, so I don't know if it was mom or dad getting yelled at here.
+
+There were plenty of chicks besides those two, of course, at all different stages of maturation. Those that weren't being sat on in a nest tended to clump together in big fluffy drifts, called crèches. Sticking together is safest for chicks while their parents are off hunting.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/creche.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/creche.JPG" alt="Numerous penguin chicks piled up next to one another." />
+  </a>  
+  <figcaption class="fixed-width">A crèche of penguin chicks</figcaption>
+</figure>
+</div>
+
+While most of the chicks were a fluffy greyish-brown color, as in the above pictures, there were a few losing their fuzz and getting ready to swim. The penguin's first full coat of adult feathers is a dark blue rather than black, and newly-matured penguins are therefore called "baby blues."
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/baby_blues.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/baby_blues.JPG" alt="Adult penguins with chicks that have nearly lost their juvenile feathers." />
+  </a>  
+  <figcaption class="fixed-width">Parents with "baby blue" chicks</figcaption>
+</figure>
+</div>
+
+That's about it for Boulders Beach, really. There are penguins. You can make their acquaintance. They waddle, they preen, they dive, and they draw a lot of visitors. By the time we left the tour buses were pulling up and the boardwalks were starting to get crowded.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/acquaintance_of_penguins.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/acquaintance_of_penguins.JPG" alt="A sign reading, 'Thank you for visiting Boulders, the easiest place in the world to make the acquaintance of penguins.'" />
+  </a>  
+  <figcaption class="fixed-width">Exit sign for Boulders Beach.</figcaption>
+</figure>
+</div>
+
+From Boulders we drove on to Cape Point, nearly-but-not-quite the southernmost point of the African continent.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/cape_point_cape_of_good_hope2.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/cape_point_cape_of_good_hope2.JPG" alt="View of the coastline of the Cape of Good hope." />
+  </a>
+  <figcaption class="fixed-width">Cape Point (foreground) and the Cape of Good Hope (upper left) as viewed from the old Cape Point lighthouse.</figcaption>
+</figure>
+</div>
+
+The point is crowned by a lighthouse, which is no longer in use. Its position at the very top of Cape Point's rocky tip made it too hard to see in some cases, and too easy in others: the lighthouse was often obscured by fog, and when it wasn't, approaching ships could see it from so far off that they would often stray too close to shore. After the *Lusitania* foundered on the rocks here in 1911, it was finally decided that enough was enough, and a new, much lower-down lighthouse was established and still serves the point today.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/cape_point2.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/cape_point2.JPG" alt="The trail heading up the side of Cape Point, topped by the old lighthouse." />
+  </a>
+  <figcaption class="fixed-width">The old Cape Point lighthouse (for Dad).</figcaption>
+</figure>
+</div>
+
+The old light still provides great views, though!
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/cape_point_cliffs.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/cape_point_cliffs.JPG" alt="Cliffs leading down to the Atlantic Ocean." />
+  </a>
+  <figcaption class="fixed-width">The Atlantic Ocean seen from the old Cape Point lighthouse.</figcaption>
+</figure>
+</div>
+
+After a brief trip up to the lighthouse to look around, I set out to hike the rest of the way to the Cape of Good Hope itself. It's an easy walk along the edge of the escarpment, with plenty of time to enjoy the ocean views and the colors of the surrounding rocks. Like the Grand Canyon, the rocks are sandstone and striped with brilliant colors.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/good_hope_rocks.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/good_hope_rocks.JPG" alt="Close up on the sandstone at the Cape of Good Hope, which is striped with different colors." />
+  </a>
+  <figcaption class="fixed-width">Colorful rock formations at the Cape of Good Hope.</figcaption>
+</figure>
+</div>
+
+Along the way, I was tempted by the beach between Cape Point and the Cape of Good Hope, which was strangely abandoned. This was Dias Beach, named after the explorer Bartolomeu Dias, who first rounded the Cape in 1488. He originally named it "The Cape of Storms," but the weather was fine when we were there. The beach looked incredibly inviting from up on the path, with white sand and deep blue tumbling waves. And yet there was no one down there enjoying it! Kelsey, another student on the trip, and I decided to take a detour to check it out.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/good_hope_dias_beach3.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/good_hope_dias_beach3.JPG" alt="View of the Cape of Good Hope, with Dias Beach in the foreground." />
+  </a>
+  <figcaption class="fixed-width">Dias Beach</figcaption>
+</figure>
+</div>
+
+It rapidly became clear why there was no one on the beach. The wind whipped up in vicious gusts, hurling sand so fast that it stung exposed skin. I had to crab my way sideways down the beach, back to the wind, only to find that, as we were on the Atlantic side of the continent, the water was absolutely freezing. There'd be no swimming in any case, as the area is known for its powerful and unpredictable currents, but even standing on the wet sand was chilly. All in all, it wasn't a pleasant place to linger. So crab, crab, crab I went back up the beach, and then got to enjoy climbing the 154 steep steps back up to the trail: all in all, I could have picked a better way to spend my time.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/ostriches_eland.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/ostriches_eland.JPG" alt="A pair of ostriches and an eland in the brush." />
+  </a>
+  <figcaption class="fixed-width">Ostriches and an eland at the Cape of Good Hope.</figcaption>
+</figure>
+</div>
+
+From there, though, it was only a brief walk up to the cape. Not the southernmost point of Africa, nor the place where the Atlantic and Indian oceans meet, but famous nonetheless. A few of the students stopped for pictures, and then we headed down to the parking lot, where we'd meet up with everyone who hadn't wanted to hike and had been doing other things.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/me_good_hope2.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/me_good_hope2.JPG" alt="Me standing on the Cape of Good hope, with Cape Point in the background." />
+  </a>
+  <figcaption class="fixed-width">Me at the Cape of Good Hope.</figcaption>
+</figure>
+</div>
+
+After walking around for a couple of hours most of us were cold, hungry, and a bit exasperated by the constant buffeting of the wind. We all crowded towards the van as soon as it drove up, only to get pushed aside by everyone inside crowding *out*. We'd be ending our visit with a surprise: a wedding between two of the non-student members of our group. As it turned out, Dr. Jenkins, who'd joined us at Cape Town, was a reverend, and Hank and Dot had decided that they might as well take advantage of the opportunity. There was a brief service just below the Cape; vows were exchanged, and then congratulations, and then it was time for a group picture and to pile back into the warmth of the van at last.
+
+<div class="wrapper">
+<figure>
+  <a href="/static/entry/penguins/group_cape_good_hope.JPG">
+    <img class="fixed-width" src="/static/entry/penguins/group_cape_good_hope.JPG" alt="IUP Africa 2017 at the Cape of Good Hope." />
+  </a>  
+  <figcaption class="fixed-width">IUP Africa 2017 at the Cape of Good Hope.</figcaption>
+</figure>
+</div>
+
+I wasn't thinking of it then, but this was the last time the whole group would be together--the rest of our time in Cape Town was unscheduled, and we all split off to do our own thing. A bittersweet moment, which passed me by completely because I was grumpy about the cold. But what a beautiful place for our last stop together as a group!
