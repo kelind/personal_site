@@ -32,7 +32,7 @@ def send_mail(recipients, subject, content):
         with subject "subject" and the specified "content." 
     '''
 
-    from smtplib import SMTP_SSL as SMTP
+    from smtplib import SMTP
     from email.mime.text import MIMEText
     from email.header import Header
 
@@ -50,7 +50,6 @@ def send_mail(recipients, subject, content):
 
     s = SMTP(app.config['SMTP_HOST'])
     s.set_debuglevel(False)
-    s.login(app.config['SMTP_USERNAME'], app.config['SMTP_PASSWORD'])
 
     try:
          s.sendmail(email_msg['From'], recips, email_msg.as_string())

@@ -16,5 +16,3 @@ class Configuration(object):
 
     EMAIL_ENABLED = False
     SMTP_HOST = 'localhost'
-    SMTP_USERNAME = 'username'
-    SMTP_PASSWORD = 'password'

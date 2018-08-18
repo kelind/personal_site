@@ -23,7 +23,7 @@ For production, there are some settings you'll want to change:
 
 * Set `DEBUG = False`
 * Choose an actually-secret `SECRET_KEY`
-* If you want to use the mailing list features, set `EMAIL_ENABLED = True` and fill out the SMTP variables with the appropriate values for your mailserver
+* If you want to use the mailing list features, set `EMAIL_ENABLED = True` and fill out the SMTP variables with the appropriate values for your mailserver. The way the code is set up is appropriate for a server running on localhost, but does not support logging into an external server or establishing an SSL connection.
 
 Create the database:
 
